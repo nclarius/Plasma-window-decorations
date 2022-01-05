@@ -10,10 +10,9 @@ The implementation is due to [@RealezzZ](https://www.reddit.com/r/kde/comments/r
 
 ## Installation
 
-1. *System Settings* > *Appearance* > *Window Decorations* > *Get New Window Decorations …* > search for ‘Active Accent’
+1. *System Settings* > *Appearance* > *Window Decorations* > *Get New Window Decorations …* > search for ‘Active Accent’ > *Install …*
 2. Pick your flavor:
    - Light: With titlebar for light color schemes
    - Dark: With titlebar for dark color schemes
    - Frame: Without titlebar for light and dark color schemes
-3. *Install*.
-
+3. Select and apply.
