@@ -20,7 +20,7 @@ The theme comes in three versions:
 
 ## Configuration
 
-The theme will be installed to `~/.local/share/aurorae/themes`. You can edit the configuration file `ActiveAccentXYZrc` to change the width of borders and the style of the titlebar, the svg graphics `decoration.svg` to make modifications on the decoration such as colors as well as the appearance of buttons.
+The theme will be installed to `~/.local/share/aurorae/themes`. You can edit the configuration file `ActiveAccentXYZrc` to change the width of borders and the style of the titlebar, and the svg files to make modifications on the decoration such as colors and the appearance of buttons. For more information, please refer to the [Aurorae docs](https://techbase.kde.org/User:Mgraesslin/Aurorae).
 
 
 
