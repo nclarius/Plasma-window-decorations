@@ -18,4 +18,4 @@ You can find the installed theme in `~/.local/share/aurorae/themes/ActiveAccent/
 
 - add a title bar: set a non-zero value for `TitleHeight` (default height in Breeze is 16)
 - change the color of the titlebar text (Aurorae themes won't respect the specifications of the color scheme): remove the leading `#` and set a matching RGB value for `ActiveTextColor`/`InactiveTextColor`
-- change the thickness of the borders: change the value for `BorderBottom`/`BorderLeft`/`BorderRight`/`TitleEdgeTop`/`TitleEdgeTopMaximized'
+- change the thickness of the borders: change the value for `BorderBottom`/`BorderLeft`/`BorderRight`/`TitleEdgeTop`/`TitleEdgeTopMaximized`
