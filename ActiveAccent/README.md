@@ -17,5 +17,5 @@ The implementation is due to [@RealezzZ](https://www.reddit.com/r/kde/comments/r
 You can find the installed theme in `~/.local/share/aurorae/themes/ActiveAccent/`. By editing the file `ActiveAccentrc`  you can easily make your own modifications:
 
 - add a title bar: set a non-zero value for`TitleHeight` (default height in Breeze is 16)
-- change the color of the titlebar text: remove the leading `#` and set a matching RGB value for `ActiveTextColor` and `InactiveTextColor`
-- change the thickness of the borders: change the values for the `BorderX`s
+- change the color of the titlebar text: remove the leading `#` and set a matching RGB value for `ActiveTextColor`/`InactiveTextColor`
+- change the thickness of the borders: change the value for `BorderBottom`/`BorderLeft`/`BorderRight`/`TitleEdgeTop`/`TitleEdgeTopMaximized'
