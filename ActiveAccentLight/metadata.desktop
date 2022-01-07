@@ -1,10 +1,13 @@
 [Desktop Entry]
-Name=ActiveAccentLight
+Name=Active Accent Light
+Comment=Active window in accent color, inactive windows in background color, for light color schemes, with titlebar
 
 X-KDE-PluginInfo-Name=ActiveAccentLight
 X-KDE-PluginInfo-Version=1.0
 X-KDE-PluginInfo-Author=Natalie Clarius
 X-KDE-PluginInfo-Email=natalie_clarius@yahoo.de
+X-KDE-PluginInfo-Website=https://store.kde.org/p/1678088/
 X-KDE-PluginInfo-License=GPL v3.0
 
+Type=Application
 X-KDE-PluginInfo-EnabledByDefault=true
