@@ -26,7 +26,7 @@ The theme will be installed to `~/.local/share/aurorae/themes`. You can edit the
 
 ## Small Print
 
-© 2021 Natalie Clarius \<natalie_clarius@yahoo.de\>
+© 2022 Natalie Clarius \<natalie_clarius@yahoo.de\>
 
 The core idea of the implementation is due to [@RealezzZ](https://www.reddit.com/r/kde/comments/ri4zko/comment/howapa9/?utm_source=share&utm_medium=web2x&context=3) and the files are based on [Breeze Aurorae](https://store.kde.org/p/1461072/). The adaption for different styles and packaging is my work.
 
