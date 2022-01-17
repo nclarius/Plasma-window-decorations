@@ -10,7 +10,7 @@ The theme comes in five versions:
 - Active Accent Dawn: With titlebar for light color schemes with pale accent colors
 - Active Accent Dusk: With titlebar for dark color schemes with pale accent colors
 
-![screenshot](img/screenshot.png)
+![screenshot](.img/screenshot.png)
 
 
 ## Installation
