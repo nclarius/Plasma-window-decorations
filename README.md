@@ -2,11 +2,13 @@
 
 Breeze-based window decoration with or without titlebar that frames the active window in the accent color and the inactive windows in the background color of the current color scheme.
 
-The theme comes in three versions:
+The theme comes in five versions:
 
-- Active Accent Light: With titlebar for light color schemes
-- Active Accent Dark: With titlebar for dark color schemes
 - Active Accent Frame: Without titlebar for light and dark color schemes
+- Active Accent Light: With titlebar for light color schemes with strong accent colors
+- Active Accent Dark: With titlebar for dark color schemes with strong accent colors
+- Active Accent Dawn: With titlebar for light color schemes with pale accent colors
+- Active Accent Dusk: With titlebar for dark color schemes with pale accent colors
 
 ![screenshot](img/screenshot.png)
 
@@ -34,5 +36,5 @@ This program comes with absolutely no warranty.
 This is free software, and you are welcome to redistribute and/or modify it under certain conditions.  
 
 If you would like to thank me, you can always make me happy with a review or a cup of coffee:  
-<a href="https://store.kde.org/p/1678088"><img src="img/kdestore.png" height="35"/></a>
-<a href="https://www.paypal.com/donate/?hosted_button_id=7LUUJD83BWRM4"><img src="https://www.paypalobjects.com/en_US/DK/i/btn/btn_donateCC_LG.gif" height="35"/></a>&nbsp;&nbsp;<a href="https://www.buymeacoffee.com/nclarius"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="35"/></a>
+<a href="https://store.kde.org/p/1678088"><img src="img/kdestore.png" height="30"/></a>
+<a href="https://www.paypal.com/donate/?hosted_button_id=7LUUJD83BWRM4"><img src="https://www.paypalobjects.com/en_US/DK/i/btn/btn_donateCC_LG.gif" height="30"/></a>&nbsp;&nbsp;<a href="https://www.buymeacoffee.com/nclarius"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="30"/></a>

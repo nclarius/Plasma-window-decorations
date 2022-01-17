@@ -1,8 +1,8 @@
 [Desktop Entry]
-Name=Active Accent Dark
-Comment=Active window in accent color, inactive windows in background color, for dark color schemes with strong accent colors, with titlebar
+Name=Active Accent Dawn
+Comment=Active window in accent color, inactive windows in background color, for light color schemes with pale accent colors, with titlebar
 
-X-KDE-PluginInfo-Name=ActiveAccentDark
+X-KDE-PluginInfo-Name=ActiveAccentDawn
 X-KDE-PluginInfo-Version=2.0
 X-KDE-PluginInfo-Author=Natalie Clarius
 X-KDE-PluginInfo-Email=natalie_clarius@yahoo.de
