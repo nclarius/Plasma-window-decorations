@@ -10,8 +10,7 @@ The theme comes in five versions:
 - Dusk: With titlebar for light accent and dark background colors
 - Dark: With titlebar for dark accent and dark background colors
 
-![screenshot](.img/screenshot.png)
-
+![screenshot](.img/screenshot.png?)
 
 ## Installation
 
