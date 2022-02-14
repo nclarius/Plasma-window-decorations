@@ -14,7 +14,7 @@ The theme comes in five versions:
 
 ## Installation
 
-*System Settings* > *Appearance* > *Window Decorations* > *Get New Window Decorations …* > search for ‘Active Accent’  > select your desired flavor > install, select and apply.
+*System Settings* > *Appearance* > *Window Decorations* > *Get New Window Decorations …* > search for ‘Active Accent’  > select your desired flavor > *Install*.
 
 
 
