@@ -4,17 +4,17 @@ Breeze-based window decoration with or without titlebar that frames the active w
 
 The theme comes in five versions:
 
-- Frame: Without titlebar for any colors
-- Dawn: With titlebar for dark accent and light background colors
-- Light: With titlebar for light accent and light background colors
-- Dusk: With titlebar for light accent and dark background colors
-- Dark: With titlebar for dark accent and dark background colors
+- Frame: Without titlebar, for any color scheme
+- Dawn: With titlebar, for color schemes with dark accent and light background color
+- Light: With titlebar, for color schemes with light accent and light background color
+- Dusk: With titlebar, for color schemes with light accent and dark background color
+- Dark: With titlebar, for color schemes with dark accent and dark background color
 
 ![screenshot](.img/screenshot.png)
 
 ## Installation
 
-*System Settings* > *Appearance* > *Window Decorations* > *Get New Window Decorations …* > search for ‘Active Accent’ > *Install …* > select your desired flavor > install, select and apply.
+*System Settings* > *Appearance* > *Window Decorations* > *Get New Window Decorations …* > search for ‘Active Accent’  > select your desired flavor > install, select and apply.
 
 
 
