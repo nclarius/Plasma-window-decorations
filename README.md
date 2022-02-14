@@ -4,11 +4,11 @@ Breeze-based window decoration with or without titlebar that frames the active w
 
 The theme comes in five versions:
 
-- Active Accent Frame: Without titlebar for light and dark color schemes
-- Active Accent Light: With titlebar for light color schemes with strong accent colors
-- Active Accent Dark: With titlebar for dark color schemes with strong accent colors
-- Active Accent Dawn: With titlebar for light color schemes with pale accent colors
-- Active Accent Dusk: With titlebar for dark color schemes with pale accent colors
+- Frame: Without titlebar for any colors
+- Dawn: With titlebar for dark accent and light background colors
+- Light: With titlebar for light accent and light background colors
+- Dusk: With titlebar for light accent and dark background colors
+- Dark: With titlebar for dark accent and dark background colors
 
 ![screenshot](.img/screenshot.png)
 
