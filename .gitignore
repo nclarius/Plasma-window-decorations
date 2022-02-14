@@ -1,0 +1,5 @@
+*.desktop
+!metadata.desktop
+ActiveAccentFrameTwilight
+Notes.txt
+*.zip
