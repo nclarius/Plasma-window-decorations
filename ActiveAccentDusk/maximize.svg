@@ -58,7 +58,7 @@
   <style
      id="current-color-scheme"
      type="text/css">
-        .ColorScheme-Background {
+        .ColorScheme-Text {
             color:#232629;
         }
         .ColorScheme-ButtonFocus{
@@ -85,7 +85,7 @@
        cy="11"
        r="9" />
     <path
-       class="ColorScheme-Background"
+       class="ColorScheme-Text"
        sodipodi:nodetypes="ccccccc"
        d="M 16.656853,8.995106 15.949745,8.288 10.999999,13.237745 6.05025,8.288 5.3431422,8.995108 10.999999,14.65196 Z"
        style="opacity:1;fill:currentColor"
@@ -107,7 +107,7 @@
        style="fill:currentColor"
        d="M 32.990234,2 A 9,9 0 0 0 24,11 a 9,9 0 0 0 9,9 9,9 0 0 0 9,-9 9,9 0 0 0 -9,-9 9,9 0 0 0 -0.0098,0 z M 28.050781,8.2871094 33,13.238281 37.949219,8.2871094 38.65625,8.9941406 33,14.652344 27.34375,8.9941406 Z"
        transform="translate(-22)"
-       class="ColorScheme-Background" />
+       class="ColorScheme-Text" />
   </g>
   <g
      transform="rotate(180,44,11)"
@@ -155,7 +155,7 @@
        style="opacity:0.3;fill:currentColor"
        d="M 16.656853,8.995106 15.949745,8.288 10.999999,13.237745 6.05025,8.288 5.3431422,8.995108 10.999999,14.65196 Z"
        sodipodi:nodetypes="ccccccc"
-       class="ColorScheme-Background" />
+       class="ColorScheme-Text" />
   </g>
   <g
      style="enable-background:new"
@@ -173,6 +173,6 @@
        d="M 32.990234,2 A 9,9 0 0 0 24,11 9,9 0 0 0 33,20 9,9 0 0 0 42,11 9,9 0 0 0 33,2 9,9 0 0 0 32.9902,2 Z M 28.050781,8.2871094 33,13.238281 37.949219,8.2871094 38.65625,8.9941406 33,14.652344 27.34375,8.9941406 Z"
        style="opacity:0.3;fill:currentColor"
        id="path867-5-6-5-6-7"
-       class="ColorScheme-Background" />
+       class="ColorScheme-Text" />
   </g>
 </svg>

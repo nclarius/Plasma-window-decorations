@@ -1,9 +1,9 @@
 [Desktop Entry]
 Name=Active Accent Frame
-Comment=Active window in accent color, inactive windows in background color, without titlebar
+Comment=Window theme without titlebar highlighting the active window in accent color and inactive windows in background color, for any color scheme
 
 X-KDE-PluginInfo-Name=ActiveAccentFrame
-X-KDE-PluginInfo-Version=2.0
+X-KDE-PluginInfo-Version=4.0
 X-KDE-PluginInfo-Author=Natalie Clarius
 X-KDE-PluginInfo-Email=natalie_clarius@yahoo.de
 X-KDE-PluginInfo-Website=https://store.kde.org/p/1678088/

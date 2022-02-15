@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg4306"
    width="22"
    height="22"
    version="1.1"
    style="enable-background:new"
    sodipodi:docname="keepabove.svg"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:dc="http://purl.org/dc/elements/1.1/">
+   inkscape:version="1.0 (1.0+r73+1)">
   <metadata
      id="metadata24">
     <rdf:RDF>
@@ -39,18 +39,17 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1896"
-     inkscape:window-height="979"
+     inkscape:window-width="1920"
+     inkscape:window-height="1015"
      id="namedview20"
      showgrid="true"
      inkscape:zoom="13.660018"
-     inkscape:cx="30.490443"
-     inkscape:cy="5.929714"
-     inkscape:window-x="12"
-     inkscape:window-y="60"
+     inkscape:cx="72.290261"
+     inkscape:cy="5.941287"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="active-center"
-     inkscape:pagecheckerboard="0">
+     inkscape:current-layer="svg4306">
     <inkscape:grid
        type="xygrid"
        id="grid849" />
@@ -87,7 +86,7 @@
        style="opacity:0.003;fill:#000000;fill-opacity:1;stroke-width:1.001;enable-background:new" />
     <path
        id="rect909-7-3-7-3-5-2-0"
-       style="opacity:1;fill:#ffffff"
+       style="opacity:1;fill:currentColor"
        d="M 16.656853,6.995146 15.949745,6.28804 10.999999,11.237785 6.05025,6.28804 5.3431422,6.995148 10.999999,12.652 Z"
        sodipodi:nodetypes="ccccccc"
        class="ColorScheme-Text" />
@@ -95,7 +94,7 @@
        class="ColorScheme-Text"
        sodipodi:nodetypes="ccccccc"
        d="M 16.656853,10.995146 15.949745,10.28804 10.999999,15.237785 6.05025,10.28804 5.3431422,10.995148 10.999999,16.652 Z"
-       style="opacity:1;fill:#ffffff"
+       style="opacity:1;fill:currentColor"
        id="path872" />
   </g>
   <g
@@ -119,11 +118,11 @@
        class="ColorScheme-Text"
        sodipodi:nodetypes="ccccccc"
        d="M 16.656853,6.995146 15.949745,6.28804 10.999999,11.237785 6.05025,6.28804 5.3431422,6.995148 10.999999,12.652 Z"
-       style="opacity:0.3;fill:currentColor"
+       style="opacity:1;fill:currentColor"
        id="rect909-7-3-7-3-5-2-0-1" />
     <path
        id="path872-2"
-       style="opacity:0.3;fill:currentColor"
+       style="opacity:1;fill:currentColor"
        d="M 16.656853,10.995146 15.949745,10.28804 10.999999,15.237785 6.05025,10.28804 5.3431422,10.995148 10.999999,16.652 Z"
        sodipodi:nodetypes="ccccccc"
        class="ColorScheme-Text" />

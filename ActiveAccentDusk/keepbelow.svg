@@ -58,7 +58,7 @@
   <style
      type="text/css"
      id="current-color-scheme">
-        .ColorScheme-Background {
+        .ColorScheme-Text {
             color:#232629;
         }
         .ColorScheme-ButtonFocus{
@@ -89,9 +89,9 @@
        style="opacity:1;fill:currentColor"
        d="M 16.656853,6.995146 15.949745,6.28804 10.999999,11.237785 6.05025,6.28804 5.3431422,6.995148 10.999999,12.652 Z"
        sodipodi:nodetypes="ccccccc"
-       class="ColorScheme-Background" />
+       class="ColorScheme-Text" />
     <path
-       class="ColorScheme-Background"
+       class="ColorScheme-Text"
        sodipodi:nodetypes="ccccccc"
        d="M 16.656853,10.995146 15.949745,10.28804 10.999999,15.237785 6.05025,10.28804 5.3431422,10.995148 10.999999,16.652 Z"
        style="opacity:1;fill:currentColor"
@@ -149,9 +149,9 @@
        style="opacity:0.3;fill:currentColor"
        d="M 16.656853,6.995146 15.949745,6.28804 10.999999,11.237785 6.05025,6.28804 5.3431422,6.995148 10.999999,12.652 Z"
        sodipodi:nodetypes="ccccccc"
-       class="ColorScheme-Background" />
+       class="ColorScheme-Text" />
     <path
-       class="ColorScheme-Background"
+       class="ColorScheme-Text"
        sodipodi:nodetypes="ccccccc"
        d="M 16.656853,10.995146 15.949745,10.28804 10.999999,15.237785 6.05025,10.28804 5.3431422,10.995148 10.999999,16.652 Z"
        style="opacity:0.3;fill:currentColor"
@@ -169,7 +169,7 @@
        y="0"
        style="opacity:0.00100002;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <path
-       class="ColorScheme-Background"
+       class="ColorScheme-Text"
        transform="rotate(180,33,11)"
        d="m 55,2 a 9,9 0 0 0 -9,9 9,9 0 0 0 9,9 9,9 0 0 0 9,-9 9,9 0 0 0 -9,-9 z m 0,3.3476562 5.65625,5.6562498 -0.707031,0.708985 L 55,6.7617188 50.050781,11.712891 49.34375,11.003906 Z m 0,4 5.65625,5.6562498 -0.707031,0.708985 L 55,10.761719 50.050781,15.712891 49.34375,15.003906 Z"
        style="opacity:1;fill:currentColor"
@@ -191,6 +191,6 @@
        style="opacity:1;fill:currentColor"
        d="m 55,2 a 9,9 0 0 0 -9,9 9,9 0 0 0 9,9 9,9 0 0 0 9,-9 9,9 0 0 0 -9,-9 z m 0,3.3476562 5.65625,5.6562498 -0.707031,0.708985 L 55,6.7617188 50.050781,11.712891 49.34375,11.003906 Z m 0,4 5.65625,5.6562498 -0.707031,0.708985 L 55,10.761719 50.050781,15.712891 49.34375,15.003906 Z"
        transform="rotate(180,33,11)"
-       class="ColorScheme-Background" />
+       class="ColorScheme-Text" />
   </g>
 </svg>
