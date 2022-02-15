@@ -22,8 +22,8 @@ If you're having problems, you can try the following:
 
 - Ensure your Plasma style follows the color scheme (*System Settings* > *Appearance* > *PLasma Style* > check for *Follows color scheme* and filter by *Color scheme compatible*).
 - Ensure you have window borders enabled and set to some medium value (*System Settings* > *Appearance* > *Window Decorations* > *Window border size*).
-- Delete everything `plasma` in `~/.cache` (`find ~/.cache - name "*plasma*" -delete`).
-- Delete yor `~/.config/kwinrc` (after backing it up first).
+- Clear the Plasma cache (`find ~/.cache - name "*plasma*" -delete`).
+- Reset your KWin config file (delete `~/.config/kwinrc` after backing it up first).
 
 
 
