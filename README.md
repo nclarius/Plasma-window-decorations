@@ -10,7 +10,7 @@ The theme comes in five versions:
 - [Dusk](https://store.kde.org/p/1709569): With titlebar, for color schemes with dark background and light accent
 - [Dark](https://store.kde.org/p/1709567): With titlebar, for color schemes with dark background and dark accent
 
-![screenshot](.img/screenshot.png)
+![screenshot](.img/screenshot_.png)
 
 ## Installation
 
