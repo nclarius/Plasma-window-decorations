@@ -20,10 +20,10 @@ The theme comes in five versions:
 
 If you're having problems, you can try the following:
 
-- Ensure your Plasma style follows the color scheme (*System Settings* > *Appearance* > *PLasma Style* > check for *Follows color scheme* and filter by *Color scheme compatible*).
+- Ensure your Plasma style follows the color scheme (*System Settings* > *Appearance* > *Plasma Style* > check for *Follows color scheme* and filter by *Color scheme compatible*).
 - Ensure you have window borders enabled and set to some medium value (*System Settings* > *Appearance* > *Window Decorations* > *Window border size*).
 - Clear the Plasma cache (`find ~/.cache -name "*plasma*" -delete`).
-- Reset your KWin config file (delete `~/.config/kwinrc` after backing it up first).
+- Reset your KWin configuration (delete `~/.config/kwinrc` after backing it up first).
 
 
 
