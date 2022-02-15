@@ -20,7 +20,7 @@ The theme comes in five versions:
 
 If you're having problems, you can try the following:
 
-- Ensure your Plasma Style follows the color scheme (*System Settings* > *Appearance* > *PLasma Style* > check for *Follows color scheme* and filter by *Color scheme compatible*).
+- Ensure your Plasma style follows the color scheme (*System Settings* > *Appearance* > *PLasma Style* > check for *Follows color scheme* and filter by *Color scheme compatible*).
 - Ensure you have window borders enabled and set to a medium value (*System Settings* > *Appearance* > *Window Decorations* > *Window border size*).
 - Delete yor `~/.config/kwinrc` after backing it up.
 
