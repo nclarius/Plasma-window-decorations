@@ -128,7 +128,7 @@
        style="opacity:0.003;fill:#000000;fill-opacity:1;stroke-width:1.001;enable-background:new" />
     <path
        id="rect909-7-3-7-3-5-2-0-2"
-       style="opacity:1;fill:currentColor"
+       style="opacity:0.3;fill:currentColor"
        d="M 16.656853,8.995106 15.949745,8.288 10.999999,13.237745 6.05025,8.288 5.3431422,8.995108 10.999999,14.65196 Z"
        sodipodi:nodetypes="ccccccc"
        class="ColorScheme-Text" />

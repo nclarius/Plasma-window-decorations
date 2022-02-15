@@ -1,3 +1,7 @@
+# v5.0
+
+- fix background colors incorrect
+
 # v4.0
 
 - fix styles labeled wrong

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
    sodipodi:docname="shade.svg"
    style="enable-background:new"
    version="1.1"
@@ -31,16 +31,16 @@
   <sodipodi:namedview
      inkscape:bbox-nodes="true"
      inkscape:snap-bbox="true"
-     inkscape:current-layer="active-center"
+     inkscape:current-layer="inactive-center"
      inkscape:window-maximized="1"
      inkscape:window-y="60"
      inkscape:window-x="12"
      inkscape:cy="5.636889"
-     inkscape:cx="32.39381"
+     inkscape:cx="76.610446"
      inkscape:zoom="13.660017"
      showgrid="true"
      id="namedview24"
-     inkscape:window-height="979"
+     inkscape:window-height="981"
      inkscape:window-width="1896"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
@@ -104,9 +104,9 @@
        style="opacity:0.003;fill:#000000;fill-opacity:1;stroke-width:1.001;enable-background:new" />
     <path
        id="rect909-7-3-7-3-5-2-0"
-       style="opacity:1;fill:#ffffff"
+       style="opacity:1;fill:currentColor"
        d="M 16.656,15 V 14 H 5.344 v 1 z M 11,12.652344 16.656,6.994141 15.949219,6.287109 11,11.238281 6.050781,6.287109 5.344,6.994141 Z"
-       class="ColorScheme-Text"
+       class="ColorScheme-Background"
        sodipodi:nodetypes="cccccccccccc" />
   </g>
   <g

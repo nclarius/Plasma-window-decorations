@@ -674,7 +674,7 @@
        height="144.99957"
        x="205"
        y="-255"
-       class="ColorScheme-Background" />
+       class="ColorScheme-Background"/>
     <rect
        style="opacity:1;fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:0.66392"
        id="shadow-hint-right-margin"

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
    sodipodi:docname="maximize.svg"
    style="enable-background:new"
    version="1.1"
@@ -31,16 +31,16 @@
   <sodipodi:namedview
      inkscape:bbox-nodes="true"
      inkscape:snap-bbox="true"
-     inkscape:current-layer="active-center"
+     inkscape:current-layer="inactive-center"
      inkscape:window-maximized="1"
      inkscape:window-y="60"
      inkscape:window-x="12"
      inkscape:cy="15.125"
-     inkscape:cx="51.8125"
+     inkscape:cx="80.5625"
      inkscape:zoom="8"
      showgrid="true"
      id="namedview24"
-     inkscape:window-height="979"
+     inkscape:window-height="981"
      inkscape:window-width="1896"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
@@ -59,7 +59,7 @@
   <style
      id="current-color-scheme"
      type="text/css">
-        .ColorScheme-Text {
+        .ColorScheme-Background {
             color:#232629;
         }
         .ColorScheme-ButtonFocus{
@@ -86,10 +86,10 @@
        cy="11"
        r="9" />
     <path
-       class="ColorScheme-Text"
+       class="ColorScheme-Background"
        sodipodi:nodetypes="ccccccc"
        d="M 16.656853,8.995106 15.949745,8.288 10.999999,13.237745 6.05025,8.288 5.3431422,8.995108 10.999999,14.65196 Z"
-       style="opacity:1;fill:#ffffff"
+       style="opacity:1;fill:currentColor"
        id="rect909-7-3-7-3-5-2-0" />
   </g>
   <g
@@ -108,7 +108,7 @@
        style="fill:currentColor"
        d="M 32.990234,2 A 9,9 0 0 0 24,11 a 9,9 0 0 0 9,9 9,9 0 0 0 9,-9 9,9 0 0 0 -9,-9 9,9 0 0 0 -0.0098,0 z M 28.050781,8.2871094 33,13.238281 37.949219,8.2871094 38.65625,8.9941406 33,14.652344 27.34375,8.9941406 Z"
        transform="translate(-22)"
-       class="ColorScheme-Text" />
+       class="ColorScheme-Background" />
   </g>
   <g
      transform="rotate(180,44,11)"
@@ -156,7 +156,7 @@
        style="opacity:0.3;fill:currentColor"
        d="M 16.656853,8.995106 15.949745,8.288 10.999999,13.237745 6.05025,8.288 5.3431422,8.995108 10.999999,14.65196 Z"
        sodipodi:nodetypes="ccccccc"
-       class="ColorScheme-Text" />
+       class="ColorScheme-Background" />
   </g>
   <g
      style="enable-background:new"
@@ -174,6 +174,6 @@
        d="M 32.990234,2 A 9,9 0 0 0 24,11 9,9 0 0 0 33,20 9,9 0 0 0 42,11 9,9 0 0 0 33,2 9,9 0 0 0 32.9902,2 Z M 28.050781,8.2871094 33,13.238281 37.949219,8.2871094 38.65625,8.9941406 33,14.652344 27.34375,8.9941406 Z"
        style="opacity:0.3;fill:currentColor"
        id="path867-5-6-5-6-7"
-       class="ColorScheme-Text" />
+       class="ColorScheme-Background" />
   </g>
 </svg>

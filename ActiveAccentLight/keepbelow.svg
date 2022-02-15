@@ -118,11 +118,11 @@
        class="ColorScheme-Text"
        sodipodi:nodetypes="ccccccc"
        d="M 16.656853,6.995146 15.949745,6.28804 10.999999,11.237785 6.05025,6.28804 5.3431422,6.995148 10.999999,12.652 Z"
-       style="opacity:1;fill:currentColor"
+       style="opacity:0.3;fill:currentColor"
        id="rect909-7-3-7-3-5-2-0-1" />
     <path
        id="path872-2"
-       style="opacity:1;fill:currentColor"
+       style="opacity:0.3;fill:currentColor"
        d="M 16.656853,10.995146 15.949745,10.28804 10.999999,15.237785 6.05025,10.28804 5.3431422,10.995148 10.999999,16.652 Z"
        sodipodi:nodetypes="ccccccc"
        class="ColorScheme-Text" />
