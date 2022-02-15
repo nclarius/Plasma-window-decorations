@@ -5,10 +5,10 @@ Breeze-based window decoration with or without titlebar that frames the active w
 The theme comes in five versions:
 
 - [Frame](https://store.kde.org/p/1678088): Without titlebar, for any color scheme
-- [Dawn](https://store.kde.org/p/1709568): With titlebar, for color schemes with dark accent and light background color
-- [Light](https://store.kde.org/p/1709554): With titlebar, for color schemes with light accent and light background color
-- [Dusk](https://store.kde.org/p/1709569): With titlebar, for color schemes with light accent and dark background color
-- [Dark](https://store.kde.org/p/1709567): With titlebar, for color schemes with dark accent and dark background color
+- [Dawn](https://store.kde.org/p/1709568): With titlebar, for color schemes with light background and dark accent 
+- [Light](https://store.kde.org/p/1709554): With titlebar, for color schemes with light background and light accent
+- [Dusk](https://store.kde.org/p/1709569): With titlebar, for color schemes with dark background and light accent
+- [Dark](https://store.kde.org/p/1709567): With titlebar, for color schemes with dark background and dark accent
 
 ![screenshot](.img/screenshot.png)
 
