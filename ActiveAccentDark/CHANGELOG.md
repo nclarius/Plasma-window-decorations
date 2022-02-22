@@ -1,3 +1,7 @@
+# v6.0
+
+- center element: use background color, not accent color
+
 # v5.0
 
 - fix background colors incorrect
