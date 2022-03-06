@@ -18,10 +18,10 @@ TitleVerticalAlignment=Center
 UseTextShadow=true
 
 [Layout]
-BorderTop=4
-BorderBottom=4
-BorderLeft=5
-BorderRight=5
+BorderTop=2
+BorderBottom=2
+BorderLeft=2
+BorderRight=2
 ButtonHeight=0
 ButtonMarginTop=0
 ButtonSpacing=2
@@ -39,6 +39,6 @@ TitleEdgeLeft=0
 TitleEdgeLeftMaximized=0
 TitleEdgeRight=0
 TitleEdgeRightMaximized=0
-TitleEdgeTop=5
-TitleEdgeTopMaximized=5
+TitleEdgeTop=2
+TitleEdgeTopMaximized=2
 TitleHeight=0

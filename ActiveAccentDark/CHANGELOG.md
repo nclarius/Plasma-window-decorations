@@ -1,3 +1,7 @@
+# v7.0
+
+- fix visual glitch in title bar
+
 # v6.0
 
 - center element: use background color, not accent color
