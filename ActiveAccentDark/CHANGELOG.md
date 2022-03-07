@@ -1,3 +1,8 @@
+# v8.0
+
+- fix no accent color on maximized windows
+- fix wrong color on some buttons
+
 # v7.0
 
 - fix visual glitch in title bar

@@ -6,7 +6,7 @@
    version="1.1"
    style="enable-background:new"
    sodipodi:docname="keepbelow.svg"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -41,16 +41,16 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1896"
-     inkscape:window-height="979"
+     inkscape:window-height="1003"
      id="namedview20"
      showgrid="true"
      inkscape:zoom="13.660018"
-     inkscape:cx="41.398188"
+     inkscape:cx="54.721743"
      inkscape:cy="5.929714"
      inkscape:window-x="12"
      inkscape:window-y="60"
      inkscape:window-maximized="1"
-     inkscape:current-layer="active-center"
+     inkscape:current-layer="pressed-center"
      inkscape:pagecheckerboard="0">
     <inkscape:grid
        type="xygrid"
@@ -87,7 +87,7 @@
        style="opacity:0.003;fill:#000000;fill-opacity:1;stroke-width:1.001;enable-background:new" />
     <path
        id="rect909-7-3-7-3-5-2-0"
-       style="opacity:1;fill:#ffffff"
+       style="opacity:1;fill:currentColor"
        d="M 16.656853,6.995146 15.949745,6.28804 10.999999,11.237785 6.05025,6.28804 5.3431422,6.995148 10.999999,12.652 Z"
        sodipodi:nodetypes="ccccccc"
        class="ColorScheme-Text" />
@@ -95,7 +95,7 @@
        class="ColorScheme-Text"
        sodipodi:nodetypes="ccccccc"
        d="M 16.656853,10.995146 15.949745,10.28804 10.999999,15.237785 6.05025,10.28804 5.3431422,10.995148 10.999999,16.652 Z"
-       style="opacity:1;fill:#ffffff"
+       style="opacity:1;fill:currentColor"
        id="path872" />
   </g>
   <g
@@ -173,7 +173,7 @@
        class="ColorScheme-Text"
        transform="rotate(180,33,11)"
        d="m 55,2 a 9,9 0 0 0 -9,9 9,9 0 0 0 9,9 9,9 0 0 0 9,-9 9,9 0 0 0 -9,-9 z m 0,3.3476562 5.65625,5.6562498 -0.707031,0.708985 L 55,6.7617188 50.050781,11.712891 49.34375,11.003906 Z m 0,4 5.65625,5.6562498 -0.707031,0.708985 L 55,10.761719 50.050781,15.712891 49.34375,15.003906 Z"
-       style="opacity:1;fill:currentColor"
+       style="opacity:0.3;fill:currentColor"
        id="path867-5-6-5-7-3" />
   </g>
   <g

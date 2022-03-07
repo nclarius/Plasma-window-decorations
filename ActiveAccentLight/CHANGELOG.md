@@ -1,3 +1,8 @@
+# v8.0
+
+- fix no accent color on maximized windows
+- fix wrong color on some buttons
+
 # v6.0
 
 - center element: use background color, not accent color

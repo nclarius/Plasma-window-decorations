@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
    sodipodi:docname="alldesktops.svg"
    style="enable-background:new"
    version="1.1"
@@ -29,7 +29,7 @@
   <defs
      id="defs26" />
   <sodipodi:namedview
-     inkscape:current-layer="inactive-center"
+     inkscape:current-layer="deactivated-center"
      inkscape:window-maximized="1"
      inkscape:window-y="60"
      inkscape:window-x="12"
@@ -91,7 +91,7 @@
        fill="currentColor"
        id="path3"
        sodipodi:nodetypes="ccccccccccccc"
-       style="fill:#232629;fill-opacity:1" />
+       style="fill:currentColor" />
   </g>
   <g
      id="pressed-center">
@@ -105,8 +105,8 @@
        transform="scale(-1)" />
     <path
        class="ColorScheme-Background"
-       d="M 54.990234 2 C 50.023486 2.0053895 45.999997 6.0332486 46 11 C 46 15.970563 50.029437 20 55 20 C 59.970563 20 64 15.970563 64 11 C 64 6.0294373 59.970563 2 55 2 L 54.990234 2 z M 55 10 A 1 1 0 0 1 56 11 A 1 1 0 0 1 55 12 A 1 1 0 0 1 54 11 A 1 1 0 0 1 55 10 z "
-       style="opacity:1;fill:currentColor"
+       d="M 54.990234,2 C 50.023486,2.0053895 45.999997,6.0332486 46,11 c 0,4.970563 4.029437,9 9,9 4.970563,0 9,-4.029437 9,-9 C 64,6.0294373 59.970563,2 55,2 Z M 55,10 a 1,1 0 0 1 1,1 1,1 0 0 1 -1,1 1,1 0 0 1 -1,-1 1,1 0 0 1 1,-1 z"
+       style="opacity:0.3;fill:currentColor"
        id="path1165" />
   </g>
   <g
@@ -160,7 +160,7 @@
        sodipodi:nodetypes="ccccccccccccc"
        id="path3-3"
        fill="currentColor"
-       class="ColorScheme-Background"
+       class="ColorScheme-Text"
        d="M 14,5 8.854,10.146 7.7151012,9 7.0071012,9.708 9.293,12 6,15.292672 6.708,16.000672 10,12.707 12.292,15.002383 13,14.294383 11.854,13.146 17,8 Z" />
   </g>
   <g

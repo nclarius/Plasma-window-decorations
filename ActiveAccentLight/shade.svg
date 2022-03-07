@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.0 (1.0+r73+1)"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
    sodipodi:docname="shade.svg"
    style="enable-background:new"
    version="1.1"
    height="22"
    width="22"
-   id="svg4306">
+   id="svg4306"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <metadata
      id="metadata28">
     <rdf:RDF>
@@ -31,17 +31,17 @@
   <sodipodi:namedview
      inkscape:bbox-nodes="true"
      inkscape:snap-bbox="true"
-     inkscape:current-layer="svg4306"
+     inkscape:current-layer="pressed-center"
      inkscape:window-maximized="1"
-     inkscape:window-y="0"
-     inkscape:window-x="0"
-     inkscape:cy="5.6588561"
-     inkscape:cx="76.589108"
+     inkscape:window-y="60"
+     inkscape:window-x="12"
+     inkscape:cy="5.636889"
+     inkscape:cx="43.008731"
      inkscape:zoom="13.660017"
      showgrid="true"
      id="namedview24"
-     inkscape:window-height="1015"
-     inkscape:window-width="1920"
+     inkscape:window-height="1003"
+     inkscape:window-width="1896"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
      guidetolerance="10"
@@ -50,7 +50,8 @@
      borderopacity="1"
      bordercolor="#666666"
      pagecolor="#ffffff"
-     inkscape:document-rotation="0">
+     inkscape:document-rotation="0"
+     inkscape:pagecheckerboard="0">
     <inkscape:grid
        id="grid853"
        type="xygrid" />
@@ -80,8 +81,8 @@
        id="rect4266-06" />
     <path
        id="path1045"
-       style="opacity:1;fill:currentColor"
-       d="M 54.990234 2 A 9 9 0 0 0 46 11 A 9 9 0 0 0 55 20 A 9 9 0 0 0 64 11 A 9 9 0 0 0 55 2 A 9 9 0 0 0 54.990234 2 z M 49.34375 7 L 60.65625 7 L 60.65625 8 L 49.34375 8 L 49.34375 7 z M 50.050781 9.3476562 L 55 14.298828 L 59.949219 9.3476562 L 60.65625 10.054688 L 55 15.712891 L 49.34375 10.054688 L 50.050781 9.3476562 z "
+       style="opacity:0.3;fill:currentColor"
+       d="M 54.990234,2 A 9,9 0 0 0 46,11 a 9,9 0 0 0 9,9 9,9 0 0 0 9,-9 9,9 0 0 0 -9,-9 9,9 0 0 0 -0.0098,0 z M 49.34375,7 h 11.3125 V 8 H 49.34375 Z M 50.050781,9.3476562 55,14.298828 59.949219,9.3476562 60.65625,10.054688 55,15.712891 49.34375,10.054688 Z"
        class="ColorScheme-Text" />
   </g>
   <g

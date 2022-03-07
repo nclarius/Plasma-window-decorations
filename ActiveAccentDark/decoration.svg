@@ -4,7 +4,7 @@
    height="310"
    id="svg3642"
    sodipodi:version="0.32"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
    sodipodi:docname="decoration.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    version="1.0"
@@ -26,15 +26,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="16.065379"
-     inkscape:cx="593.85466"
-     inkscape:cy="200.96009"
-     inkscape:current-layer="decoration-inactive-bottomright"
+     inkscape:zoom="1.3996526"
+     inkscape:cx="377.23645"
+     inkscape:cy="260.06452"
+     inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
-     inkscape:window-width="1884"
-     inkscape:window-height="996"
+     inkscape:window-width="1886"
+     inkscape:window-height="999"
      inkscape:window-x="12"
      inkscape:window-y="60"
      width="48px"
@@ -68,8 +68,7 @@
      id="defs3644">
     <style
        id="current-color-scheme"
-       type="text/css">
-    </style>
+       type="text/css" />
     <radialGradient
        inkscape:collect="always"
        xlink:href="#PerfectBreeze"
@@ -674,7 +673,7 @@
        height="144.99957"
        x="205"
        y="-255"
-       class="ColorScheme-Background" />
+       class="ColorScheme-ViewFocus" />
     <rect
        style="opacity:1;fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:0.66392"
        id="shadow-hint-right-margin"

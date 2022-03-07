@@ -1,3 +1,7 @@
+# v8.0
+
+- fix no accent color on maximized windows
+
 # v4.0
 
 - fix styles labeled wrong
