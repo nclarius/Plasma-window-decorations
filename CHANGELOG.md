@@ -1,3 +1,17 @@
+# v8.0
+
+- fix no accent color on maximized windows
+- fix wrong color on some buttons
+
+# v7.0
+
+- fix visual glitch in title bar
+
+# v6.0
+
+- center decoration: use background color, not accent color
+
+
 # v5.0
 
 - fix background colors incorrect
