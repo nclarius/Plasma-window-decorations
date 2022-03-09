@@ -23,7 +23,7 @@ If you're having problems, you can try the following:
 - Ensure your selected Plasma style follows the color scheme (*System Settings* > *Appearance* > *Plasma Style* > check for *Follows color scheme* and filter by *Color scheme compatible*).
 - Ensure you have window borders enabled and set to a normal value (*System Settings* > *Appearance* > *Window Decorations* > *Window border size*).
 - If you want borders on maximized windows, in `~/.config/kwinrc` set `BorderlessMaximizedWindows=false`.
-- If you have or used to have Latte dock, make sure there are no stored settings that might affect window borders.
+- If you have or used to have Latte dock, make sure there is no Latte configuration that might affect window borders.
 - Clear the Plasma cache (`find ~/.cache -name "*plasma*" -delete`).
 - Reset your KWin configuration (delete `~/.config/kwinrc` after backing it up first).
 
