@@ -26,6 +26,7 @@ If you're having problems, you can try the following:
 - If you have or used to have Latte dock, make sure there is no Latte configuration that might affect window borders.
 - Clear the Plasma cache (`find ~/.cache -name "*plasma*" -delete`).
 - Reset your KWin configuration (delete `~/.config/kwinrc` after backing it up first).
+- After making changes to your configuration, restart Plasma and KWin (reboot, or `plasmashell --replace &` and `kwin_x11 --replace &`/`kwin_wayland --replace &`).
 
 
 
