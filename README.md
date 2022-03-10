@@ -32,7 +32,7 @@ If you're having problems, you can try the following:
 
 ## Configuration
 
-The theme will be installed to `~/.local/share/aurorae/themes`. You can edit the configuration file `ActiveAccentXYZrc` to change the width of borders and the style of the titlebar, and the `.svg` files to make modifications on the decoration such as colors and the appearance of buttons. For more information, please refer to the [Aurorae docs](https://techbase.kde.org/User:Mgraesslin/Aurorae).
+The theme will be installed to `~/.local/share/aurorae/themes`. You can edit the configuration file `ActiveAccentXYZrc` to change the width of borders and the style of the titlebar, and the `.svg` files to make modifications on the decoration such as colors and the appearance of buttons. For more information, please refer to the official documentation: [1](https://invent.kde.org/plasma/kwin/-/blob/master/src/plugins/kdecorations/aurorae/theme-description) [2](https://techbase.kde.org/User:Mgraesslin/Aurorae) [3](https://develop.kde.org/docs/extend/plasma/theme/theme-details/#background-svg-format).
 
 
 
