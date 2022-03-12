@@ -1,3 +1,7 @@
+# v9.0
+
+- make buttons rendered correctly without compositing
+
 # v8.0
 
 - fix no accent color on maximized windows
