@@ -26,15 +26,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.76180737"
-     inkscape:cx="114.85843"
-     inkscape:cy="337.35562"
+     inkscape:zoom="1.4474186"
+     inkscape:cx="717.48422"
+     inkscape:cy="254.93662"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
-     inkscape:window-width="1886"
-     inkscape:window-height="999"
+     inkscape:window-width="1888"
+     inkscape:window-height="977"
      inkscape:window-x="12"
      inkscape:window-y="60"
      width="48px"
@@ -868,119 +868,6 @@
        class="ColorScheme-Background"
        id="decoration-inactive-center"
        style="fill:currentColor;stop-color:currentColor"
-       transform="rotate(90)" />
-    <g
-       transform="matrix(12.083326,0,0,1,-2273.7483,0)"
-       id="mask-top">
-      <rect
-         transform="rotate(90)"
-         style="fill:#000000"
-         id="rect4148-01-9-2-0-6"
-         width="27"
-         height="12"
-         x="176"
-         y="-267"
-         class="ColorScheme-Background" />
-    </g>
-    <g
-       transform="translate(388.49982,96)"
-       id="mask-topright"
-       style="fill:#000000">
-      <path
-         class="ColorScheme-Background"
-         sodipodi:nodetypes="cccssc"
-         d="m 565,80 v 27 h 17 V 84 c 0,-2.22028 -1.76336,-4 -4,-4 z"
-         style="fill:#000000"
-         id="rect4177-6-1-8-7-7-5" />
-    </g>
-    <g
-       transform="matrix(24.166654,0,0,1.0000002,-12677.493,174.99995)"
-       id="mask-bottom"
-       style="fill:#000000">
-      <g
-         id="bottom-1-2-8"
-         transform="matrix(0.18749985,0,0,0.66666287,554.43751,-516.23783)"
-         inkscape:label="bottom-1-2"
-         style="fill:#000000">
-        <rect
-           transform="rotate(90)"
-           class="ColorScheme-Background"
-           style="fill:#000000"
-           id="rect4148-01-2-7"
-           width="6"
-           height="32"
-           x="948.36218"
-           y="-50.999985" />
-      </g>
-    </g>
-    <g
-       id="mask-bottomleft"
-       transform="matrix(-1,0,0,1,1371.4998,175)"
-       style="fill:#000000">
-      <path
-         id="rect4177-6-1-8-74-9-7"
-         style="fill:#000000"
-         class="ColorScheme-Background"
-         d="m 565,116 v 4 h 13 c 2.22028,0 4,-1.76336 4,-4 h -4 z" />
-    </g>
-    <g
-       transform="matrix(1,0,0,17.199966,388.49982,-1687.9962)"
-       id="mask-right"
-       style="fill:#000000">
-      <rect
-         transform="rotate(90)"
-         class="ColorScheme-Background"
-         style="fill:#000000"
-         id="rect4148-01-9-1-2"
-         width="5.0000024"
-         height="17"
-         x="110.00001"
-         y="-582" />
-    </g>
-    <g
-       id="mask-bottomright"
-       transform="translate(685.49982,-1)"
-       style="fill:#000000">
-      <path
-         d="m 268,292 v 4 h 13 c 2.22028,0 4,-1.76336 4,-4 h -4 z"
-         class="ColorScheme-Background"
-         style="fill:#000000"
-         id="rect4177-6-1-8-9-1"
-         sodipodi:nodetypes="ccsccc" />
-    </g>
-    <g
-       id="mask-topleft"
-       transform="matrix(-1,0,0,1,1371.4998,96)"
-       style="fill:#000000">
-      <path
-         id="rect4177-6-1-8-7-2-4-5"
-         class="ColorScheme-Background"
-         style="fill:#000000"
-         d="m 565,80 v 27 h 17 V 84 c 0,-2.22028 -1.76336,-4 -4,-4 z"
-         sodipodi:nodetypes="cccssc" />
-    </g>
-    <g
-       id="mask-left"
-       transform="matrix(-1,0,0,17.199966,1371.4998,-1687.9962)"
-       style="fill:#000000">
-      <rect
-         y="-582"
-         x="110.00001"
-         height="17"
-         width="5.0000024"
-         id="rect4148-01-9-5-4-9"
-         class="ColorScheme-Background"
-         style="fill:#000000"
-         transform="rotate(90)" />
-    </g>
-    <rect
-       y="-952.49976"
-       x="204"
-       height="144.99957"
-       width="86.000008"
-       class="ColorScheme-Background"
-       id="mask-center"
-       style="fill:#000000;stop-color:currentColor"
        transform="rotate(90)" />
   </g>
 </svg>

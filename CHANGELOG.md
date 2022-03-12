@@ -1,3 +1,11 @@
+# v10.0
+
+- - fix korners
+
+# v9.0
+
+- make buttons rendered correctly without compositing
+
 # v8.0
 
 - fix no accent color on maximized windows
@@ -9,8 +17,7 @@
 
 # v6.0
 
-- center decoration: use background color, not accent color
-
+- center element: use background color, not accent color
 
 # v5.0
 

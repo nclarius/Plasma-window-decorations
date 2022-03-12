@@ -26,15 +26,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.76180737"
-     inkscape:cx="114.85843"
-     inkscape:cy="337.35562"
+     inkscape:zoom="0.90579218"
+     inkscape:cx="774.46021"
+     inkscape:cy="241.77731"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
-     inkscape:window-width="1886"
-     inkscape:window-height="999"
+     inkscape:window-width="1888"
+     inkscape:window-height="977"
      inkscape:window-x="12"
      inkscape:window-y="60"
      width="48px"
@@ -870,7 +870,7 @@
        style="fill:currentColor;stop-color:currentColor"
        transform="rotate(90)" />
     <g
-       transform="matrix(12.083326,0,0,1,-2273.7483,0)"
+       transform="matrix(12.083326,0,0,1,-2313.7483,0)"
        id="mask-top">
       <rect
          transform="rotate(90)"
@@ -883,7 +883,7 @@
          class="ColorScheme-Background" />
     </g>
     <g
-       transform="translate(388.49982,96)"
+       transform="translate(348.49982,96)"
        id="mask-topright"
        style="fill:#000000">
       <path
@@ -894,7 +894,7 @@
          id="rect4177-6-1-8-7-7-5" />
     </g>
     <g
-       transform="matrix(24.166654,0,0,1.0000002,-12677.493,174.99995)"
+       transform="matrix(24.166654,0,0,1.0000002,-12717.493,174.99995)"
        id="mask-bottom"
        style="fill:#000000">
       <g
@@ -915,7 +915,7 @@
     </g>
     <g
        id="mask-bottomleft"
-       transform="matrix(-1,0,0,1,1371.4998,175)"
+       transform="matrix(-1,0,0,1,1331.4998,175)"
        style="fill:#000000">
       <path
          id="rect4177-6-1-8-74-9-7"
@@ -924,7 +924,7 @@
          d="m 565,116 v 4 h 13 c 2.22028,0 4,-1.76336 4,-4 h -4 z" />
     </g>
     <g
-       transform="matrix(1,0,0,17.199966,388.49982,-1687.9962)"
+       transform="matrix(1,0,0,17.199966,348.49982,-1687.9962)"
        id="mask-right"
        style="fill:#000000">
       <rect
@@ -939,7 +939,7 @@
     </g>
     <g
        id="mask-bottomright"
-       transform="translate(685.49982,-1)"
+       transform="translate(645.49982,-1)"
        style="fill:#000000">
       <path
          d="m 268,292 v 4 h 13 c 2.22028,0 4,-1.76336 4,-4 h -4 z"
@@ -950,7 +950,7 @@
     </g>
     <g
        id="mask-topleft"
-       transform="matrix(-1,0,0,1,1371.4998,96)"
+       transform="matrix(-1,0,0,1,1331.4998,96)"
        style="fill:#000000">
       <path
          id="rect4177-6-1-8-7-2-4-5"
@@ -961,7 +961,7 @@
     </g>
     <g
        id="mask-left"
-       transform="matrix(-1,0,0,17.199966,1371.4998,-1687.9962)"
+       transform="matrix(-1,0,0,17.199966,1331.4998,-1687.9962)"
        style="fill:#000000">
       <rect
          y="-582"
@@ -974,7 +974,7 @@
          transform="rotate(90)" />
     </g>
     <rect
-       y="-952.49976"
+       y="-912.49976"
        x="204"
        height="144.99957"
        width="86.000008"
