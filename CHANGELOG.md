@@ -1,4 +1,6 @@
+## v9.2
 
+- fix wrong title colors
 
 ## v9.1
 
