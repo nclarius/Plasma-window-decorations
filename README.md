@@ -20,9 +20,8 @@ The theme comes in five versions:
 
 If you're having problems, you can try the following:
 
-- Ensure your selected Plasma style follows the color scheme (*System Settings* > *Appearance* > *Plasma Style* > check for *Follows color scheme* and filter by *Color scheme compatible*).
+- Ensure your selected Plasma style follows the color scheme (*System Settings* > *Appearance* > *Plasma Style* > check for *Follows color scheme* and filter by *Color scheme compatible*), else [un-override](https://www.reddit.com/r/kde/comments/rwdgxb/Active_Accent_window_decoration/hre5xlr/) it.
 - Ensure you have window borders enabled and set to a normal value (*System Settings* > *Appearance* > *Window Decorations* > *Window border size*).
-- Ensure your Plasma style doesn't [override](https://www.reddit.com/r/kde/comments/rwdgxb/Active_Accent_window_decoration/hre5xlr/) your color scheme. 
 - If you have or used to have Latte dock, make sure there is no Latte configuration that might affect window borders.
 - Clear the Plasma cache (`find ~/.cache -name "*plasma*" -delete`).
 - Reset your KWin configuration (delete `~/.config/kwinrc` after backing it up first).
