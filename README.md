@@ -27,7 +27,7 @@ If you're having problems, you can try the following:
 - Reset your KWin configuration (delete `~/.config/kwinrc` after backing it up first).
 - After making changes to your configuration, restart Plasma and KWin (reboot, or `plasmashell --replace &` and `kwin_x11 --replace &`/`kwin_wayland --replace &`).
 
-Borders on maximized windows unfurtunately appears [not to be possible](https://bugs.kde.org/show_bug.cgi?id=451505) for Aurorae decorations.
+Borders on maximized windows unfortunately appears [not to be possible](https://bugs.kde.org/show_bug.cgi?id=451505) for Aurorae decorations.
 
 
 
