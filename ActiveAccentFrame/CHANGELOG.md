@@ -1,3 +1,7 @@
+# v9.0
+
+- refactor config 
+
 # v8.0
 
 - fix no accent color on maximized windows

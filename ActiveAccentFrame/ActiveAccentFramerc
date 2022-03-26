@@ -24,5 +24,8 @@ TitleEdgeLeftMaximized=0
 TitleEdgeRight=0
 TitleEdgeRightMaximized=0
 TitleEdgeTop=5
-TitleEdgeTopMaximized=5
+TitleEdgeTopMaximized=0
 TitleHeight=0
+
+[BlurBehindEffect]
+enabled=false
