@@ -41,6 +41,8 @@ It is not possible to add configuration options for Aurorae themes, so if you wa
 
 © 2022-2023 Natalie Clarius \<natalie_clarius@yahoo.de\> [nclarius.github.io](https://nclarius.github.io)
 
+The core idea of the implementation is due to [@RealezzZ](https://www.reddit.com/r/kde/comments/ri4zko/comment/howapa9/?utm_source=share&utm_medium=web2x&context=3). The files are based on [Breeze Aurorae](https://store.kde.org/p/1461072/) by [@doncsugar](https://github.com/doncsugar); the credit for most of the work goes to them. The adaption for different styles and packaging is my work.
+
 This work is licensed under the GNU General Public License v3.0.  
 This program comes with absolutely no warranty.  
 This is free software, and you are welcome to redistribute and/or modify it under certain conditions.  
