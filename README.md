@@ -33,8 +33,7 @@ Borders on maximized windows unfortunately appears [not to be possible](https://
 
 ## Configuration
 
-It is not possible to add configuration options for Aurorae themes, so if you want any changes to the window decorations, you will have to edit the theme yourself. Installed Aurorae themes are located in `~/.local/share/aurorae/themes`. You can edit the configuration file `ActiveAccentXYZrc` to change the width of borders and the style of the titlebar, and the `.svg` files to make modifications on the decoration such as colors and the appearance of buttons. For more information, please refer to the official documentation: [[1]](https://invent.kde.org/plasma/kwin/-/blob/master/src/plugins/kdecorations/aurorae/theme-description) [[2]](https://techbase.kde.org/User:Mgraesslin/Aurorae) [[3]](https://develop.kde.org/docs/extend/plasma/theme/theme-details/#background-svg-format).
-
+It is not possible to add configuration options for Aurorae themes, so if you want any changes to the window decorations, you will have to edit the theme yourself. Installed Aurorae themes are located in `~/.local/share/aurorae/themes`. You can edit the configuration file `ActiveAccentXYZrc` to change the width of borders and the style of the titlebar, and the `.svg` files to make modifications on the decoration such as colors and the appearance of buttons. For more information, please refer to [the official documentation](https://develop.kde.org/docs/extend/plasma/aurorae/).
 
 
 ## Small Print
